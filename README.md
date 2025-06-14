@@ -23,6 +23,3 @@ To identify high-risk customers by modeling payment delays, credit utilization, 
 - Matplotlib, Seaborn
 
 ---
-
-📌 Developed by Ashutosh Gupta  
-FinClub, IIT Roorkee — Summer 2025
